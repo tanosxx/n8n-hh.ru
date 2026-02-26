@@ -4,6 +4,8 @@
 
 ### Ссылка на видео с гайдом: https://www.youtube.com/watch?v=EakL7eoSL9U
 
+**Не хотите запариваться с развёртыванием?** Есть готовый Telegram-бот: [@roaster_resume_bot](https://t.me/roaster_resume_bot)
+
 ## Особенности v2.0
 
 - ⚡ **Async FastAPI** 
