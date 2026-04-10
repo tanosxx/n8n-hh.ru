@@ -6,6 +6,8 @@
 
 **Не хотите запариваться с развёртыванием?** Есть готовый Telegram-бот: [@roaster_resume_bot](https://t.me/roaster_resume_bot)
 
+**И платформа моя, вот: https://jobturbo.ru/**
+
 ## Особенности v2.0
 
 - ⚡ **Async FastAPI** 
